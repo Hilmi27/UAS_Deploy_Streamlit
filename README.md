@@ -4,7 +4,7 @@ Aplikasi web berbasis Machine Learning untuk memprediksi risiko penyakit jantung
 
 ## 🔗 Link
 
-- **Live App:** _(isi setelah deploy ke Streamlit Community Cloud)_
+- **Live App:** _[(isi setelah deploy ke Streamlit Community Cloud)](https://uas-ml-hilmi-riyan.streamlit.app/)_
 - **Dataset:** [Kaggle - Heart Disease Risk Prediction Dataset](https://www.kaggle.com/datasets/mahatiratusher/heart-disease-risk-prediction-dataset)
 
 ## 📁 Struktur Repository
